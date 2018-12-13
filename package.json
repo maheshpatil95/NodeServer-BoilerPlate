@@ -1,0 +1,19 @@
+{
+  "name": "nodeboilerplate",
+  "version": "1.0.0",
+  "description": "creates server and db connectivity",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "pening"
+  },
+  "author": "Mahesh Patil",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mysql": "^2.16.0"
+  }
+}
