@@ -2,10 +2,10 @@ var mysql = require('mysql');
 
 
 var options = {
-    host: "192.168.1.80",
-    user: "root",
-    password: "pass",
-    database: 'fdlargefacegrouptest',
+    host: "",
+    user: "",
+    password: "",
+    database: '',
     timezone: 'utc'
 
 }
